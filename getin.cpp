@@ -1,3 +1,4 @@
+//局限：输入数据中不能有换行符间隔
 #include <string>
 #include <iostream>
 #include <sstream>
